@@ -5,7 +5,7 @@ el peso (masa) promedio de una persona se calculo viendo un documento sobre leye
 Para la altura simplemente medimos la propia y con eso hicimos un estimado (es aproximadamente 2.60 metros)
 la masa de la cabina la considero aproximadamente de 300kg
 
-estos son datos de un ascensor idraulico que encontre
+estos son datos de un ascensor hidraulico que encontre
 
 El proveedor garantiza las siguientes prestaciones:  Capacidad:              Deceleración, parada y mantenimiento de hasta el 125% de la capacidad nominal.
 Precisión de nivelación:          +/- 5mm 
